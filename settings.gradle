@@ -1,0 +1,2 @@
+rootProject.name = "App Architecture Persistence"
+include ':app'
